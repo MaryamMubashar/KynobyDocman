@@ -16,7 +16,7 @@
 // @match        https://*.docman.thirdparty.nhs.uk/TasksViewer/ShowProcessTask*
 // @match        https://*.docman.thirdparty.nhs.uk/Filing/ConfirmFilingSectionItem*
 // @namespace    KYNOBY
-// @version      2.0.7.1
+// @version      2.0.7.2
 // @author       Zaeem
 // @updateURL    http://100.81.239.73:3000/script-update
 // @downloadURL  http://100.81.239.73:3000/script-update
