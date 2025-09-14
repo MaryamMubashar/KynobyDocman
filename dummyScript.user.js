@@ -18,8 +18,8 @@
 // @namespace    KYNOBY
 // @version      2.0.7.2
 // @author       Zaeem
-// @updateURL    http://100.81.239.73:3000/script-update
-// @downloadURL  http://100.81.239.73:3000/script-update
+// @updateURL    https://github.com/MaryamMubashar/KynobyDocman/raw/refs/heads/main/dummyScript.user.js
+// @downloadURL  https://github.com/MaryamMubashar/KynobyDocman/raw/refs/heads/main/dummyScript.user.js
 // ==/UserScript==
 
 (()=>{"use strict";var __webpack_modules__={834:(__unused_webpack___webpack_module__,__webpack_exports__,__webpack_require__)=>{
@@ -625,17 +625,11 @@ setTimeout((()=>{const selectedValue=dropdown.value;if(!selectedValue){alert("Pl
             </a>
         </div>
         <div style="display: inline-block">
-            <a class="info" id="uploadSingle">
-                <div class="information"><i class="la la-file-upload"></i></div>
-                <div>Upload 1</div>
-            </a>
-        </div>
-        <div style="display: inline-block">
-            <a class="info" id="uploadAll">
-                <div class="information"><i class="la la-file-upload"></i></div>
-                <div>Upload All (TODO)</div>
-            </a>
-        </div>
+  <a class="info" id="uploadDocumentsBtn">
+    <div class="information"><i class="la la-file-upload"></i></div>
+    <div>Upload Documents</div>
+  </a>
+</div>
         <div style="display: inline-block">
             <a class="info" id="addCodes">
                 <div class="information"><i class="lab la-codepen"></i></div>
